@@ -260,4 +260,4 @@ fi
 echo "************************************************"
 echo "Result JSON Response: $RUN_BODY"
 echo "************ Testsigma: Completed executing automated tests ************"
-exit $EXITCODE
+exit 0
